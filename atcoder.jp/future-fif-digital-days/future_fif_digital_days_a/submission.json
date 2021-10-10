@@ -1,0 +1,12 @@
+{
+	"id": 26485145,
+	"epoch_second": 1633848730,
+	"problem_id": "future_fif_digital_days_a",
+	"contest_id": "future-fif-digital-days",
+	"user_id": "sin471",
+	"language": "Python (3.8.2)",
+	"point": 40000,
+	"length": 1521,
+	"result": "AC",
+	"execution_time": 37
+}
