@@ -1,0 +1,12 @@
+{
+	"id": 26840178,
+	"epoch_second": 1635315339,
+	"problem_id": "iroha2019_day1_a",
+	"contest_id": "iroha2019-day1",
+	"user_id": "sin471",
+	"language": "Brainfuck (bf 20041219)",
+	"point": 100,
+	"length": 2,
+	"result": "AC",
+	"execution_time": 20
+}
