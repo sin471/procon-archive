@@ -1,0 +1,12 @@
+{
+	"id": 26952453,
+	"epoch_second": 1635671771,
+	"problem_id": "abc081_a",
+	"contest_id": "abs",
+	"user_id": "sin471",
+	"language": "Brainfuck (bf 20041219)",
+	"point": 100,
+	"length": 73,
+	"result": "AC",
+	"execution_time": 16
+}
