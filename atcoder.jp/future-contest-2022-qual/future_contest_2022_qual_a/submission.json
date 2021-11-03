@@ -1,0 +1,12 @@
+{
+	"id": 27007588,
+	"epoch_second": 1635940894,
+	"problem_id": "future_contest_2022_qual_a",
+	"contest_id": "future-contest-2022-qual",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 272232,
+	"length": 1839,
+	"result": "AC",
+	"execution_time": 835
+}
