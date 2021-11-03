@@ -1,0 +1,12 @@
+{
+	"id": 27008988,
+	"epoch_second": 1635945083,
+	"problem_id": "genocon2021_a",
+	"contest_id": "genocon2021",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 139,
+	"result": "AC",
+	"execution_time": 68
+}
