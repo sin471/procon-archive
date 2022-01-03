@@ -1,0 +1,12 @@
+{
+	"id": 28310132,
+	"epoch_second": 1641209525,
+	"problem_id": "hitachi2020_b",
+	"contest_id": "hitachi2020",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 329,
+	"result": "AC",
+	"execution_time": 285
+}
