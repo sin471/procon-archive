@@ -1,0 +1,1 @@
+print("Judgement",end="\n")
