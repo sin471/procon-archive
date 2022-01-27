@@ -1,0 +1,12 @@
+{
+	"id": 28829331,
+	"epoch_second": 1643293550,
+	"problem_id": "ddcc2020_qual_b",
+	"contest_id": "ddcc2020-qual",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 220,
+	"result": "AC",
+	"execution_time": 107
+}
