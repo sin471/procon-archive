@@ -1,0 +1,12 @@
+{
+	"id": 34341777,
+	"epoch_second": 1661493124,
+	"problem_id": "unionfind_a",
+	"contest_id": "atc001",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 719,
+	"result": "AC",
+	"execution_time": 474
+}
