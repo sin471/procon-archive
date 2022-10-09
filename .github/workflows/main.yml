@@ -28,9 +28,9 @@ jobs:
         jq '.atcoder.repository_path|="."' config.json > tmp
         mv tmp config.json
         #ここを書き換える
-        jq '.atcoder.user_id|="[Atcoder-ID]"' config.json > tmp
+        jq '.atcoder.user_id|="sin471"' config.json > tmp
         mv tmp config.json
-        jq '.atcoder.user_email|="[e-mail]"' config.json > tmp
+        jq '.atcoder.user_email|="tachiken.0414.ken@gmail.com"' config.json > tmp
         mv tmp config.json
 
     - name: Archive
