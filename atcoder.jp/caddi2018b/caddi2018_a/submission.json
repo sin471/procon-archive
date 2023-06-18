@@ -1,0 +1,12 @@
+{
+	"id": 42731443,
+	"epoch_second": 1687105675,
+	"problem_id": "caddi2018_a",
+	"contest_id": "caddi2018b",
+	"user_id": "sin471",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 356,
+	"result": "AC",
+	"execution_time": 78
+}
